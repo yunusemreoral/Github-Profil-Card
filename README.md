@@ -12,7 +12,7 @@
 <li>AXİOS</li>
 
 # Ekran Görüntüsü 🎥
-<img src="githubprofil" width="auto">      
+<img src="githubprofil.gif" width="auto">      
 
 # İletişim 📩
 yunusemreoral@hotmail.com.tr
